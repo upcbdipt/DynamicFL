@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ### Training
 #### Downloading data
-The origin dataset can be downloaded from [CT](https://github.com/UCSD-AI4H/COVID-CT), [Kaggle-Xray](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database), [Github-Xray](https://github.com/agchung/Figure1-COVID-chestxray-datase).
+The origin dataset can be downloaded from [CT](https://github.com/UCSD-AI4H/COVID-CT), [Kaggle-Xray](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database), [Github-Xray](https://github.com/agchung/Figure1-COVID-chestxray-dataset).
 
 #### Extracting origin.zip
 Extract zip file to data/origin. The structure of the data folder should be
