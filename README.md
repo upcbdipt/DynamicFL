@@ -72,4 +72,5 @@ If you use this work, please cite:
 
 ## License
 DynamicFL is distributed under [Apache 2.0 licensed](http://www.apache.orgenses/LICENSE-2.0).
+
 Contact: Weishan Zhang (zhangws@upc.edu.cn)
